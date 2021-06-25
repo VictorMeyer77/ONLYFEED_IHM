@@ -2,7 +2,7 @@
 
 ### INSTALLATION
 
-[chrome://extensions/](chrome://extensions/)
+![tt](chrome://extensions/)
 
 Activer le mode dévellopeur (en haut à droite)
 
