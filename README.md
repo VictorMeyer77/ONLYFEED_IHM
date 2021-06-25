@@ -2,7 +2,7 @@
 
 ### INSTALLATION
 
-[extensions](chrome://extensions/)
+Aller dans chrome://extensions/
 
 Activer le mode dévellopeur (en haut à droite)
 
