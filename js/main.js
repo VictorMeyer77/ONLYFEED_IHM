@@ -17,7 +17,7 @@ input.addEventListener('keydown', function (e) {
     }
 });
 
-var new_user_button = document.getElementById('new_comparison_form');
+var new_user_button = document.getElementById('new_user_button');
 new_user_button.addEventListener("click", add_user)
 
 function add_user_comparison(){
