@@ -1,5 +1,5 @@
-var url = 'http://localhost:5000/'
-var url_rasa = 'http://localhost:5005/webhooks/rest/webhook'
+var url = 'http://rasa.ddns.net:5005/'
+var url_rasa = 'http://rasa.ddns.net:5005/webhooks/rest/webhook'
 var userID
 var id_game
 var latest_chatbot_message = 0
