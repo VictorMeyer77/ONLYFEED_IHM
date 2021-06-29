@@ -1,4 +1,4 @@
-var url = 'http://rasa.ddns.net:5005/'
+var url = 'http://rasa.ddns.net:5000/'
 var url_rasa = 'http://rasa.ddns.net:5005/webhooks/rest/webhook'
 var userID
 var id_game
